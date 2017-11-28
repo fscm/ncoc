@@ -1,0 +1,13 @@
+# macOS
+*.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+
+# Windows
+Desktop.ini
+Thumbs.db
+
