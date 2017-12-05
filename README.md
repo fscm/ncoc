@@ -28,13 +28,13 @@ to contribute to this project.
 ## Versioning
 
 This project uses [SemVer](http://semver.org/) for versioning. For the versions
-available, see the [tags on this repository](https://github.com/fscm/ncoc/tags).
+available, see the [tags on this repository](tags).
 
 ## Authors
 
 * **Frederico Martins** - [fscm](https://github.com/fscm)
 
-See also the list of [contributors](https://github.com/fscm/ncoc/contributors)
+See also the list of [contributors](contributors)
 who participated in this project.
 
 ## License
