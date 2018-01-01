@@ -1,6 +1,6 @@
 [author]: # (Frederico Martins <http://github.com/fscm>)
 [license]: # (SPDX-License-Identifier: CC-BY-4.0)
-[copyright]: # (2016-2017, Frederico Martins)
+[copyright]: # (2016-2018, Frederico Martins)
 
 This project follows a No Code of Conduct (NCoC) philosophy. We are all human
 beings. We should all be capable of getting along well.
