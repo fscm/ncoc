@@ -9,6 +9,17 @@ No Code of Conduct was created to allow projects and communities to cooperate
 without getting stuck in endless debates on how members should behave. Publicly
 shared projects should, by nature, be a welcoming and safe place.
 
+Everyone is expected to behave like an adult and therefore be capable of
+having adult discussions.
+
+Everyone contributions are accepted regardless of their level of experience,
+gender, gender identity and expression, sexual orientation, disability,
+personal appearance, body size, race, ethnicity, age, religion, or nationality.
+It should not be important. It should not be asked. It simply does not matter.
+
+Everyone should be able to freely express their ideas without being offended
+by nor offend others.
+
 ## Usage
 
 Just copy the `CODE_OF_CONDUCT.md` file into the root directory of your
