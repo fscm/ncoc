@@ -1,4 +1,5 @@
 [author]: # (Frederico Martins <http://github.com/fscm>)
+[version]: # (1.0)
 [license]: # (SPDX-License-Identifier: CC-BY-4.0)
 [copyright]: # (2016-2018, Frederico Martins)
 
