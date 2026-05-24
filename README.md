@@ -20,10 +20,17 @@ It should not be important. It should not be asked. It simply does not matter.
 Everyone should be able to freely express their ideas without being offended
 by nor offend others.
 
+## Versions
+
+* **NCoC 1.0**: The original version of the (No) Code of Conduct. A simple code
+of conduct for small publicly shared projects communities.
+* **NCoC 2.0**: A simplified version of the (No) Code of Conduct that also
+includes constraints against AI usage on the project and/or project community.
+
 ## Usage
 
-Just copy the `CODE_OF_CONDUCT.md` file into the root directory of your
-project. You may modify it as needed.
+Just copy the desired version of the `CODE_OF_CONDUCT.md` file into the root
+directory of your project. You may modify it as needed.
 
 ## Contributing
 
@@ -55,5 +62,5 @@ see the [LICENSE](LICENSE) file for details
 
 ## Credits
 
-Based on the [No Code of Conduct](https://github.com/domgetter/NCoC) by
-[Dominic Muller (domgetter)](https://github.com/domgetter).
+Originally based on the [No Code of Conduct](https://github.com/domgetter/NCoC)
+by [Dominic Muller (domgetter)](https://github.com/domgetter).
